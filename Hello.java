@@ -3,7 +3,7 @@ package JavaProj;
 public class Hello{ 
     public static void main(String[] args){
         for (int i = 1; i <= 15; i++){
-            System.out.println("Hello DevOps Class... " + i);
+            System.out.println("Hello DevOps... " + i);
         }
     }
 }
