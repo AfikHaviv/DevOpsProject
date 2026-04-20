@@ -1,7 +1,7 @@
 public class AfikHaviv{ 
     public static void main(String[] args){
         for (int i = 1; i <= 10; i++){
-            System.out.println("My name is Afik Haviv " + i);
+            System.out.println("Afik Haviv " + i);
         }
     }
 }
